@@ -1,0 +1,9 @@
+D:\Games\GEN\PS4\Editor\PS4Editor\bin\Debug\PS4Editor.exe
+D:\Games\GEN\PS4\Editor\PS4Editor\bin\Debug\PS4Editor.pdb
+D:\Games\GEN\PS4\Editor\PS4Editor\obj\Debug\ResolveAssemblyReference.cache
+D:\Games\GEN\PS4\Editor\PS4Editor\obj\Debug\PS4Editor.AboutBox1.resources
+D:\Games\GEN\PS4\Editor\PS4Editor\obj\Debug\PS4Editor.Form1.resources
+D:\Games\GEN\PS4\Editor\PS4Editor\obj\Debug\PS4Editor.Properties.Resources.resources
+D:\Games\GEN\PS4\Editor\PS4Editor\obj\Debug\PS4Editor.csproj.GenerateResource.Cache
+D:\Games\GEN\PS4\Editor\PS4Editor\obj\Debug\PS4Editor.exe
+D:\Games\GEN\PS4\Editor\PS4Editor\obj\Debug\PS4Editor.pdb
